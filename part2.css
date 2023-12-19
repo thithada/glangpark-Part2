@@ -1,0 +1,70 @@
+.head{
+    color: white;
+    font-size: 40px;
+    background-color: green;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    padding-top: 50px;
+}
+.Nevigation{
+    background-color: gray;
+    color: white;
+    height: 50px;
+    width: 100%;
+    display: grid;
+    display: flex;
+}
+
+p{
+    margin: 15px;
+}
+
+.nene:hover{
+    color: black;
+    background-color: aliceblue;
+
+}
+.body{
+
+    height: auto;
+    width: 100%;
+    display: grid;
+    display: flex;
+}
+.A{
+    text-align: center;
+    width: 33%;
+    border: solid white;
+    background-color: red;
+}
+.B{
+    text-align: center;
+    width: 33%;
+    border: solid white;
+    background-color: yellow;
+}
+.C{
+    text-align: center;
+    width: 33%;
+    border: solid white;
+    background-color: pink;
+}
+#p1{
+    color: blue;
+    font-size: 40px;
+}
+#h{
+    color: black;
+}
+.footer{
+    height: 50px;
+    width: 100%;
+    display: grid;
+    display: flex;
+    border: solid black;
+    justify-content: center;
+}
+img{
+    margin: 5px;
+}
